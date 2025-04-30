@@ -17,6 +17,10 @@ This participant completed data exploration, categorical encoding, feature engin
 
 This participant used the H2O AutoML library to build their model.
 
+[Citation](https://kaggle.com/competitions/playground-series-s5e4):
+
+Walter Reade and Elizabeth Park. Predict Podcast Listening Time. https://kaggle.com/competitions/playground-series-s5e4, 2025. Kaggle.
+
 ii. Data selection:
 
 Train.csv for EDA, transform, and model
