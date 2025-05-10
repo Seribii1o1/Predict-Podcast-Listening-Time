@@ -17,6 +17,10 @@ This participant completed data exploration, categorical encoding, feature engin
 
 This participant used the H2O AutoML library to build their model.
 
+[1st Place - RAPIDS cuML Stack - 3 Levels!](https://www.kaggle.com/competitions/playground-series-s5e4/discussion/575784)
+
+This participant won the competition with a RAPIDS cuML stack of 3 levels. 
+
 [Citation](https://kaggle.com/competitions/playground-series-s5e4):
 
 Walter Reade and Elizabeth Park. Predict Podcast Listening Time. https://kaggle.com/competitions/playground-series-s5e4, 2025. Kaggle.
@@ -32,18 +36,16 @@ iii. Challenges:
 Time is an initial challenge since both the Kaggle and class deadlines are approaching.
 
 
-**2.EDA**
+**2.[EDA](/Users/sa26/Documents/GitHub/Predict-Podcast-Listening-Time/code/EDA.ipynb)**
 
 Notebook where I performed univariate, bivariate, and multivariate exploratory analysis on dataset.
 I created relevant graphs to help formulate a hypothesis. 
 
-**3.Data Transformation Pipeline**
+**3.[Data Transformation Pipeline](/Users/sa26/Documents/GitHub/Predict-Podcast-Listening-Time/code/transform.ipynb)**
 
 Some of the columns had a strong correlation and linearity, so I dropped them.
 I saved this dataframe as a new csv file to be used in the next step.
 
-**4.Model Generation, Selection, and Hyperparameter Tuning**
-Once we’ve explored this pre-processed dataset, we will then create a notebook where we will create train test splits and implement a RandomForestClassifier, GradientBoostingClassifier, and any other model that you believe would be appropriate for this modeling task. Note that we ask you to generate multiple models, not just one.
-After training these initial classifiers and viewing their accuracy measures, we will then move forward with hyperparameter tuning via GridSearchCV or RandomizedSearchCV (again, the choice is yours!)
-Upon finding optimal hyperparameters, we should re-train our model using these hyperparameters, generate predictions for this new model. Output the respective accuracy scores for each model, and select the one that has the best performance.
+**4.[Model Generation, Selection, and Hyperparameter Tuning](/Users/sa26/Documents/GitHub/Predict-Podcast-Listening-Time/code/model.ipynb)**
+Once exploring the dataset, I created a notebook to generate multiple models. Upon re-training the models using hyperparameter tuning, then outputing the respective accuracy scores for each model; I selected the one that has the best performance.
 
