@@ -33,7 +33,7 @@ sample_submission.csv as an example for Kaggle submission
 
 iii. Challenges:
 
-Time is an initial challenge since both the Kaggle and class deadlines are approaching.
+Time is an initial challenge since both the Kaggle and class deadlines were tight.
 
 
 **2.[EDA](/Users/sa26/Documents/GitHub/Predict-Podcast-Listening-Time/code/EDA.ipynb)**
