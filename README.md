@@ -36,16 +36,16 @@ iii. Challenges:
 Time is an initial challenge since both the Kaggle and class deadlines were tight.
 
 
-**2.[EDA](code/EDA.ipynb)**
+**2.[EDA](https://github.com/Seribii1o1/Predict-Podcast-Listening-Time/blob/main/code/EDA.ipynb)**
 
 Notebook where I performed univariate, bivariate, and multivariate exploratory analysis on dataset.
 I created relevant graphs to help formulate a hypothesis. 
 
-**3.[Data Transformation Pipeline](/Users/sa26/Documents/GitHub/Predict-Podcast-Listening-Time/code/transform.ipynb)**
+**3.[Data Transformation Pipeline](https://github.com/Seribii1o1/Predict-Podcast-Listening-Time/blob/main/code/transform.ipynb)**
 
 Some of the columns had a strong correlation and linearity, so I dropped them.
 I saved this dataframe as a new csv file to be used in the next step.
 
-**4.[Model Generation, Selection, and Hyperparameter Tuning](/Users/sa26/Documents/GitHub/Predict-Podcast-Listening-Time/code/model.ipynb)**
+**4.[Model Generation, Selection, and Hyperparameter Tuning](https://github.com/Seribii1o1/Predict-Podcast-Listening-Time/blob/main/code/model.ipynb)**
 Once exploring the dataset, I created a notebook to generate multiple models. Upon re-training the models using hyperparameter tuning, then outputing the respective accuracy scores for each model; I selected the one that has the best performance.
 
