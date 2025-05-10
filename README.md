@@ -47,5 +47,6 @@ Some of the columns had a strong correlation and linearity, so I dropped them.
 I saved this dataframe as a new csv file to be used in the next step.
 
 **4.[Model Generation, Selection, and Hyperparameter Tuning](https://github.com/Seribii1o1/Predict-Podcast-Listening-Time/blob/main/code/model.ipynb)**
+
 Once exploring the dataset, I created a notebook to generate multiple models. Upon re-training the models using hyperparameter tuning, then outputing the respective accuracy scores for each model; I selected the one that has the best performance.
 
