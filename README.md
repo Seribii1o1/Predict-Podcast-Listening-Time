@@ -36,7 +36,7 @@ iii. Challenges:
 Time is an initial challenge since both the Kaggle and class deadlines were tight.
 
 
-**2.[EDA](/Users/sa26/Documents/GitHub/Predict-Podcast-Listening-Time/code/EDA.ipynb)**
+**2.[EDA](code/EDA.ipynb)**
 
 Notebook where I performed univariate, bivariate, and multivariate exploratory analysis on dataset.
 I created relevant graphs to help formulate a hypothesis. 
